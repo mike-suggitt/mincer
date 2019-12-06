@@ -1,3 +1,25 @@
+2019-07-20
+------------------
+- Maintenance owner moved from nodeca to js-kyle
+
+2.0.1 / 2019-07-13
+------------------
+
+- Maintenance release.
+- Deps bump.
+- Travis: update minimal node version to 8.
+- Added maintenance warning to readme.
+
+
+2.0.0 / 2019-02-25
+------------------
+
+- Maintenance release.
+- Drop node v4 support (test v6 & latest).
+- Deps: Bump lodash 3 -> 4.
+- DevDeps: freeze versions of CSSWring & uglify-js.
+
+
 1.5.0 / 2016-07-27
 ------------------
 

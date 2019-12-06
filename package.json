@@ -1,6 +1,6 @@
 {
   "name": "mincer",
-  "version": "1.5.0",
+  "version": "2.0.1",
   "description": "Web assets processor. Native JavaScript port of Sprockets.",
   "keywords": [
     "sprockets",
@@ -13,7 +13,7 @@
   ],
   "author": "Aleksey V Zapparov <ixti@member.fsf.org> (http://ixti.net/)",
   "license": "MIT",
-  "repository": "nodeca/mincer",
+  "repository": "js-kyle/mincer",
   "bin": {
     "mincer": "bin/mincer.js"
   },
@@ -24,7 +24,7 @@
     "argparse": "^1.0.2",
     "compressible": "^2.0.2",
     "hike": "^1.0.0",
-    "lodash": "^3.10.1",
+    "lodash": "4.17.14",
     "mimoza": "^1.0.0",
     "mkdirp": "^0.5.1",
     "pako": "^1.0.3",
@@ -36,19 +36,19 @@
     "coffee-script": "*",
     "connect": "*",
     "csso": "*",
-    "csswring": "*",
+    "csswring": "6.0.3",
     "ejs": "*",
-    "eslint": "3.6.1",
+    "eslint": "6.0.1",
     "jade": "*",
     "less": "*",
-    "mocha": "3.1.0",
+    "mocha": "6.1.4",
     "ndoc": "^5.0.1",
     "node-sass": "*",
     "postcss": "*",
     "pug": "^2.0.0-beta6",
     "sinon": "^1.12.2",
     "stylus": "*",
-    "supertest": "^2.0.0",
-    "uglify-js": "*"
+    "supertest": "^4.0.2",
+    "uglify-js": "^2.0.0"
   }
 }
